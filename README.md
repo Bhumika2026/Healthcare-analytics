@@ -59,6 +59,7 @@ Python was used for data cleaning and exploratory data analysis, and Power BI wa
 
 ## Project Structure
 
+```
 healthcare-analytics/
 │
 ├── healthcare_dataset.csv
@@ -66,6 +67,8 @@ healthcare-analytics/
 ├── healthcare_analysis.ipynb
 ├── healthcare_dashboard.pbix
 └── README.md
+```
+
 
 ## How to Run
 - Python
