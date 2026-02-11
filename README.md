@@ -53,7 +53,7 @@ Python was used for data cleaning and exploratory data analysis, and Power BI wa
 ---
 ## Dashboard Preview
 
-- ![Healthcare Dashboard](dashboard.png)
+![Healthcare Dashboard](dashboard.PNG)
 
 ---
 
